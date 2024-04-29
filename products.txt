@@ -1,0 +1,10 @@
+1,Laptop Asus Tuf,9000000,17;
+2,Smartphone Samsung Galaxy S21,12000000,10;
+3,Headphones Sony WH-1000XM4,3500000,20;
+4,Coffee Maker Philips HD7431/20,500000,25;
+5,Running Shoes Nike Air Zoom Pegasus 38,1500000,30;
+6,External Hard Drive WD Elements 2TB,1000000,12;
+7,Digital Camera Canon EOS Rebel T7,6000000,8;
+8,Wireless Mouse Logitech MX Master 3,1200000,18;
+9,Smartwatch Apple Watch Series 7,10000000,6;
+10,Portable Bluetooth Speaker JBL Flip 5,2000000,22;
